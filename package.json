@@ -10,6 +10,6 @@
     "main":"src/hashedField.js",
     "dependencies":{
         "bcrypt":"~0.7.3",
-        "mongoose": "~1.2.8"
+        "mongoose": "~3.6"
     }
 }
